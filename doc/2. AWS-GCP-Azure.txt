@@ -1,0 +1,71 @@
+2. AWS, GCP, Azure
+
+a) Thị phần của các CSP như thế nào?
+
+Nói về thị phần năm 2023: (report by Synergy Research Group for 2023)
+
+Amazon Web Services — 32%
+Microsoft Azure — 22%
+Google Cloud Platform — 11%
+
+b) So sánh cơ bản về các dịch vụ
+
+Mô hình dịch vụ:
+
+- AWS: Cung cấp đầy đủ các mô hình dịch vụ: IaaS (Infrastructure as a Service), PaaS (Platform as a Service) và SaaS (Software as a Service).
+- GCP: Tập trung vào PaaS và SaaS, đồng thời cung cấp IaaS với khả năng mở rộng và linh hoạt cao.
+- Azure: Mạnh về IaaS và PaaS, đồng thời cung cấp nhiều dịch vụ SaaS dành cho doanh nghiệp.
+
+Lĩnh vực nổi bật:
+
+- AWS: Đa dạng dịch vụ, nổi bật về lưu trữ, tính toán và mạng.
+- GCP: Nổi bật về trí tuệ nhân tạo, học máy và dữ liệu lớn.
+- Azure: Ưu điểm về ứng dụng doanh nghiệp, giải pháp lai và tích hợp tốt với các sản phẩm Microsoft.
+
+Giá cả:
+
+- AWS: Hệ thống giá phức tạp, có thể phát sinh chi phí cao nếu không tối ưu hóa.
+- GCP: Cấu trúc giá cạnh tranh, dễ dàng dự đoán chi phí.
+- Azure: Giá cả cạnh tranh, có nhiều chương trình khuyến mãi và gói cước tiết kiệm.
+
+Vùng phủ sóng toàn cầu:
+
+- AWS: Mạng lưới trung tâm dữ liệu rộng khắp nhất, trải dài khắp các lục địa.
+- GCP: Vùng phủ sóng đang được mở rộng nhanh chóng, tập trung vào các khu vực chiến lược.
+- Azure: Mạng lưới trung tâm dữ liệu toàn cầu, đặc biệt mạnh ở khu vực Châu Âu và Bắc Mỹ.
+
+Dịch vụ:
+
+- AWS: Cung cấp hơn 200 dịch vụ đa dạng, đáp ứng mọi nhu cầu.
+- GCP: Hơn 100 dịch vụ, tập trung vào các giải pháp sáng tạo và công nghệ tiên tiến.
+- Azure: Hơn 200 dịch vụ, đặc biệt mạnh về các giải pháp doanh nghiệp và tích hợp Microsoft.
+
+Khách hàng:
+
+- AWS: Phù hợp cho nhiều đối tượng, từ khởi nghiệp đến doanh nghiệp lớn và tổ chức chính phủ.
+- GCP: Hấp dẫn cho các công ty công nghệ, nhà nghiên cứu và những người đam mê công nghệ mới.
+- Azure: Lựa chọn tối ưu cho doanh nghiệp lớn, tổ chức và những người sử dụng các sản phẩm Microsoft.
+
+Ưu điểm:
+
+- AWS: Đa dạng dịch vụ, độ tin cậy cao, cộng đồng người dùng lớn.
+- GCP: Giá cả cạnh tranh, công nghệ tiên tiến, thân thiện với nhà phát triển.
+- Azure: Tích hợp tốt với các sản phẩm Microsoft, hỗ trợ lai mạnh mẽ.
+
+Nhược điểm:
+
+- AWS: Giao diện phức tạp, giá cả có thể cao nếu không tối ưu hóa.
+- GCP: Vùng phủ sóng chưa rộng khắp, một số dịch vụ mới.
+- Azure: Khóa vào hệ sinh thái Microsoft, ít linh hoạt hơn.
+
+c) Nên lựa chọn dịch vụ nào/ Các cân nhắc khi lựa chọn:
+
+- Mục đích sử dụng: Bạn cần dịch vụ cho mục đích gì? Lưu trữ, tính toán, mạng, trí tuệ nhân tạo, học máy, hay ứng dụng doanh nghiệp?
+- Ngân sách: Bạn có thể chi trả bao nhiêu cho dịch vụ điện toán đám mây?
+- Khả năng sử dụng: Bạn có am hiểu về công nghệ hay cần giao diện dễ sử dụng?
+- Nhu cầu về vùng phủ sóng: Bạn cần dịch vụ có sẵn ở khu vực nào?
+- Hệ sinh thái hiện có: Bạn đang sử dụng các sản phẩm hoặc dịch vụ của nhà cung cấp nào?
+
+
+Reference:
+- https://www.n-ix.com/comparing-big-3-aws-azure-gcp/#:~:text=Over%20100%20cloud%20service%20providers,%25%20and%20Google%20at%2011%25.

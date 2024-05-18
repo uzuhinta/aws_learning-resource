@@ -1,0 +1,68 @@
+a) Cloud computing là gì?
+
+Cloud Computing là việc cung cấp các dịch vụ điện toán hoàn toàn qua Internet. Hay nói đúng hơn là việc cung cấp tài nguyên phù hợp với nhu cầu người dùng hoàn toàn thông qua Internet. Các dịch vụ ở đây có thể bao gồm máy chủ, lưu trữ, phần mềm …
+
+Theo NIST, cloud là một mô hình cho phép truy cập mạng theo yêu cầu, thuận tiện và ở mọi nơi đến một nhóm tài nguyên tính toán có thể cấu hình (ví dụ: mạng, máy chủ, lưu trữ, ứng dụng và dịch vụ) có thể được cung cấp và phát hành nhanh chóng với nỗ lực quản lý tối thiểu hoặc tương tác với nhà cung cấp dịch vụ. Mô hình đám mây này bao gồm năm đặc điểm thiết yếu, ba mô hình dịch vụ và bốn mô hình triển khai.
+
+Năm đặc điểm thiết yếu:
+
+- Tự phục vụ theo yêu cầu: Người dùng có thể tự cung cấp tài nguyên tính toán theo yêu cầu mà không cần tương tác với nhà cung cấp dịch vụ.
+- Truy cập mạng rộng: Các dịch vụ đám mây phải có sẵn rộng rãi trên mạng truyền thông.
+- Kết hợp tài nguyên: Nhiều khách hàng chia sẻ tài nguyên dịch vụ đám mây trong một mô hình nhiều người thuê bao.
+- Tính đàn hồi nhanh chóng: Dịch vụ đám mây có thể được mở rộng hoặc thu hẹp nhanh chóng để đáp ứng nhu cầu của người dùng.
+- Dịch vụ được đo lường: Việc sử dụng tài nguyên đám mây được theo dõi và đo lường để có thể tính toán và báo cáo cho người dùng.
+
+Ba mô hình dịch vụ:
+
+- Software as a Service (SaaS): Người dùng truy cập các ứng dụng đám mây qua trình duyệt web hoặc giao diện ứng dụng
+- Platform as a Service (PaaS): Các nhà phát triển sử dụng môi trường đám mây để phát triển, thử nghiệm và triển khai ứng dụng.
+- Infrastructure as a Service (IaaS): Người dùng thuê các tài nguyên tính toán cơ bản, chẳng hạn như máy chủ, lưu trữ và mạng.
+
+Bốn mô hình triển khai đám mây:
+
+- Private cloud: Đám mây riêng được triển khai cho một tổ chức duy nhất và được điều hành nội bộ.
+- Community cloud: được chia sẻ giữa nhiều tổ chức và được điều hành bởi bên cung cấp dịch vụ bên thứ ba.
+- Public cloud:  có sẵn cho bất kỳ ai và được điều hành bởi bên cung cấp dịch vụ bên thứ ba.
+- Hybrid cloud: kết hợp của ít nhất 2 mô hình trên
+
+Reference:
+- https://aws.amazon.com/vi/what-is-cloud-computing/
+- https://viettelidc.com.vn/tin-tuc/cloud-computing-la-gi-tat-tan-tat-nhung-dieu-ban-can-biet-ve-cloud-computing
+- https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
+- https://vinno.vn/tin-tuc/cloud-computing-la-gi-tat-tan-tat-moi-thu-ban-can-biet
+
+b) (ưu/nhược điểm)
+
+Ưu điểm: 
+
+- Chi phí: Tiết kiệm chi phí chính là lợi ích đầu tiên mà Cloud Computing mang lại cho người dùng. Thay vì phải bỏ chi phí đầu tư cả một hệ thống máy chủ để lưu trữ dữ liệu, chịu các chi phi vận hành hay bảo dưỡng hàng năm thì bạn chỉ cần phải dành một khoản tiền nhỏ để duy trì chúng. Bạn sẽ tập trung hơn vào công việc cuả mình thay vì phải lo lắng đến những việc như bảo dưỡng hay vận hành hệ thống. 
+
+- Tính mở rộng: Lợi ích thứ hai của điện toán đám mây đó là khả năng mở rộng linh hoạt về quy mô của nó. Điều này có nghĩa là bạn sẽ được phân phối đúng lượng tài nguyên cần thiết với nhu cầu sử dụng của mình. Bạn có thể bổ sung tài nguyên bất cứ khi nào phát sinh nhu cầu và tại đúng vị trí địa lý mà bạn mong muốn.
+
+- Hiệu năng: Lợi ích thứ ba là vấn đề hiệu năng. Các dịch vụ điện toán đám mây lớn nhất chạy trên mạng lưới trung tâm dữ liệu an toàn trên toàn thế giới. Và đương nhiên chúng được nâng cấp thường xuyên để tăng hiệu quả và mức độ bảo mật. So với mô hình trung tâm dữ liệu quy mô nhỏ như một công ty thì điều này mang lại những lợi ích tích cực hơn như giảm độ trễ mạng và tăng tính kinh tế khi áp dụng theo quy mô lớn hơn.
+
+- Bảo mật: Lợi ích thứ tư là tính bảo mật. Nhiều nhà cung cấp dịch vụ đám mây cung cấp một loạt các chính sách, công nghệ và kiểm soát nhằm củng cố tính bảo mật của bạn. Qua đó nó giúp bảo vệ dữ liệu, ứng dụng và cơ sở hạ tầng của bạn khỏi các mối đe dọa tiềm ẩn hay các cuộc tấn công mạng vẫn thường xuyên xảy ra.
+
+- Tốc độ: Lợi ích thứ năm là tốc độ. Hầu hết các dịch vụ Cloud Computing hiện nay đều được cung cấp dịch vụ theo yêu cầu. Nghĩa là bạn cần bao nhiêu thì có bấy nhiêu. Thậm chí ngay cả một lượng lớn tài nguyên máy tính cũng có thể được cung cấp chỉ trong vài phút. Như vậy bạn sẽ không cần phải quá áp lực trong việc lên kế hoạch tính toán công suất cho phù hợp nữa. Thay vào đó bạn có thể sử dụng bình thường, khi cần có thể bổ sung ngay tức thì chỉ với một vài cú nhấp chuột.
+
+- Năng suất: Lợi ích thứ sáu là vấn đề về năng suất. Đối với Cloud Computing, bạn sẽ không phải dành chi phí cũng như cắt cử nhân viên cho các tác vụ quản lý, bảo dưỡng và duy trì hệ thống công nghệ thông tin. Như vậy bạn có thể tập trung đội ngũ cho những việc chuyên môn phục vụ cho kinh doanh của mình nhiều hơn. 
+
+- Độ tin cậy: Lợi ích cuối cùng là tính tin cậy của hệ thống. Các đơn vị trung gian chuyên cung cấp các dịch vụ về Cloud, Máy chủ, … như Viettel IDC luôn có các biện pháp giúp người dùng sao lưu và bảo vệ dữ liệu. Thậm chí họ còn có các trung tâm DC/DR giúp khôi phục dữ liệu khi bị tấn công mạng và duy trì hoạt động liên tục của hệ thống. Đây là những thứ mà trong phạm vi nhỏ như một công ty đơn lẻ sẽ khó có thể đáp ứng được.
+
+Nhược điểm:
+
+- Rủi ro bảo mật: Nếu dữ liệu của người dùng bị xâm phạm, nó có thể gây ra hậu quả nghiêm trọng.
+- Khả năng phụ thuộc vào nhà cung cấp dịch vụ: Người dùng phụ thuộc vào nhà cung cấp dịch vụ điện toán đám mây để truy cập dữ liệu và ứng dụng của họ. Nếu nhà cung cấp dịch vụ gặp sự cố, người dùng có thể không truy cập được dữ liệu và ứng dụng của họ.
+- Khó khăn trong việc kiểm soát: Người dùng có thể có ít quyền kiểm soát hơn đối với dữ liệu và ứng dụng của họ khi họ sử dụng điện toán đám mây.
+- Khó khăn trong việc di chuyển dữ liệu: Việc di chuyển dữ liệu từ một nhà cung cấp dịch vụ điện toán đám mây sang nhà cung cấp dịch vụ khác có thể khó khăn và tốn kém.
+- Vấn đề về hiệu suất: Hiệu suất của các ứng dụng điện toán đám mây có thể chậm hơn so với các ứng dụng được cài đặt trên máy tính cục bộ.
+- Không phải tất cả các ứng dụng đều có sẵn trên đám mây: Không phải tất cả các ứng dụng đều có sẵn trên đám mây.
+
+c) Who
+
+- Người dùng: Cá nhân, doanh nghiệp hoặc tổ chức sử dụng các dịch vụ điện toán đám mây.
+- Nhà cung cấp dịch vụ điện toán đám mây (CSP): Cung cấp các dịch vụ điện toán đám mây cho người dùng. Một số CSP phổ biến bao gồm Amazon Web Services (AWS), Microsoft Azure và Google Cloud Platform (GCP).
+
+d) Bằng cách nào? How
+
+sử dụng công nghệ ảo hóa để chia nhỏ các tài nguyên tính toán thành các đơn vị nhỏ hơn, có thể được cung cấp cho nhiều người dùng cùng lúc. Người dùng có thể truy cập các dịch vụ điện toán đám mây thông qua giao diện web, API hoặc các công cụ khác.

@@ -1,0 +1,53 @@
+4. AWS console:
+
+a) AWS Management Console là gì?
+
+- AWS Management Console là một giao diện người dùng đồ họa (GUI) dựa trên web cho phép bạn quản lý tài khoản và các dịch vụ AWS của mình. Nó cung cấp một cách dễ sử dụng để thực hiện nhiều tác vụ. Nó là một công cụ mạnh mẽ cho phép bạn dễ dàng quản lý tài khoản và các dịch vụ AWS của mình. Nó là một lựa chọn tốt cho người dùng ở mọi cấp độ kinh nghiệm, từ người mới bắt đầu đến quản trị viên hệ thống cao cấp.
+
+b) Lúc nào thì phiên đăng nhập hết hạn?
+
+Phiên đăng nhập AWS Management Console của bạn có thể hết hạn do một số lý do sau:\
+
+- Hết thời gian chờ: AWS Management Console có thời gian chờ mặc định là 12 tiếng. Sau 12 tiếng không hoạt động, phiên đăng nhập của bạn sẽ hết hạn và bạn sẽ cần đăng nhập lại.
+
+Hoạt động không sử dụng: Nếu bạn không thực hiện bất kỳ hoạt động nào trong AWS Management Console trong một khoảng thời gian nhất định (thường là 30 phút), phiên đăng nhập của bạn có thể hết hạn.
+
+Thay đổi mật khẩu: Nếu bạn thay đổi mật khẩu tài khoản AWS của mình, tất cả các phiên đăng nhập hiện tại sẽ bị vô hiệu hóa và bạn sẽ cần đăng nhập lại.
+
+Đăng nhập từ thiết bị khác: Nếu bạn đăng nhập vào AWS Management Console từ một thiết bị khác, phiên đăng nhập hiện tại từ thiết bị trước sẽ bị vô hiệu hóa.
+
+Vấn đề kết nối mạng: Nếu bạn gặp sự cố kết nối mạng, phiên đăng nhập của bạn có thể bị gián đoạn và bạn sẽ cần đăng nhập lại.
+
+Vấn đề với AWS: Trong một số trường hợp hiếm hoi, sự cố với AWS có thể khiến phiên đăng nhập của bạn hết hạn.
+
+c) Chức năng thông qua AWS management console có giống với cli và api không?
+
+Cả ba giao diện đều cung cấp toàn bộ chức năng để quản lý tài khoản và dịch vụ AWS
+
+Điểm khác biệt:
+
+- Giao diện:
++ Management Console: Dễ sử dụng, trực quan, phù hợp cho người mới bắt đầu.
++ CLI: Phức tạp hơn, đòi hỏi kiến thức về dòng lệnh, phù hợp cho người dùng có kinh nghiệm.
++ API: Cần kiến thức lập trình, phù hợp cho nhà phát triển.
+- Tự động hóa:
++ Management Console: Khả năng tự động hóa hạn chế.
++ CLI: Khả năng tự động hóa cao, hỗ trợ scripting.
++ API: Khả năng tự động hóa cao nhất, tích hợp linh hoạt.
+- Khả năng tùy chỉnh:
++ Management Console: Khả năng tùy chỉnh hạn chế.
++ CLI: Khả năng tùy chỉnh cao, hỗ trợ scripting.
++ API: Khả năng tùy chỉnh cao nhất, tích hợp linh hoạt.
+- Hiệu suất:
++ Management Console: Hiệu suất có thể chậm hơn do giao diện đồ họa.
++ CLI: Hiệu suất nhanh hơn do sử dụng dòng lệnh.
++ API: Hiệu suất nhanh nhất, tối ưu cho truy cập dữ liệu và tích hợp.
+
+Lựa chọn giao diện phù hợp phụ thuộc vào nhu cầu và kỹ năng của bạn:
+
++ Người mới bắt đầu: Nên sử dụng Management Console vì dễ sử dụng và trực quan.
++ Người dùng có kinh nghiệm: Có thể sử dụng CLI hoặc API tùy theo nhu cầu về tự động hóa và tùy chỉnh.
++ Nhà phát triển: Nên sử dụng API để tích hợp các dịch vụ AWS vào ứng dụng của riêng mình.
+
+Reference:
+- https://aws.amazon.com/vi/console/faq-console/?nc1=f_ls

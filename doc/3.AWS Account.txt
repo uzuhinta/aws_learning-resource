@@ -1,0 +1,24 @@
+3. AWS Account
+
+a) Loại tài khoản AWS nào phù hợp với tôi?
+
+- Individual: Dành cho cá nhân sử dụng AWS cho mục đích cá nhân hoặc học tập. Loại tài khoản này miễn phí với hạn mức sử dụng miễn phí trong một năm.
+- Business: Dành cho doanh nghiệp sử dụng AWS cho mục đích kinh doanh. Loại tài khoản này có nhiều tính năng hơn và cho phép bạn sử dụng nhiều dịch vụ hơn.
+
+b) Làm thế nào để tạo tài khoản AWS miễn phí?
+
+- Truy cập trang web AWS: https://aws.amazon.com/
+- Nhấp vào nút "Create an AWS Account"
+- Chọn loại tài khoản "Individual"
+- Cung cấp thông tin tài khoản
+- Đồng ý với Điều khoản dịch vụ và Chính sách bảo mật
+- Nhấp vào nút "Continue"
+- Xác minh địa chỉ email
+- Cung cấp thông tin thanh toán
+
+c)  Làm thế nào để đảm bảo tôi không làm phát sinh chi phí trong khi sử dụng Bậc miễn phí?
+
+Có một vài cơ chế để sử dụng nhằm đảm bảo bạn không làm phát sinh chi phí ngoài dự kiến. Ngân sách AWS là công cụ kiểm soát chi phí cho phép bạn tạo các ngân sách chi phí tùy chỉnh để cảnh báo cho bạn biết khi vượt ngưỡng ngân sách. Công cụ này gửi các cảnh báo tự động về mức sử dụng Bậc miễn phí qua email để thông báo cho bạn biết khi bạn sắp hoặc đã vượt quá giới hạn sử dụng bậc miễn phí. 
+
+Reference:
+- https://aws.amazon.com/vi/free/registration-faqs/
